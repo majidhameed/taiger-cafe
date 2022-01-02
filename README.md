@@ -1,3 +1,5 @@
+![](https://img.shields.io/github/license/majidhameed/taiger-cafe?style=plastic)
+
 Files in this folder
 --------------------
 readme.txt                          This file
